@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CahClone", "CahClone\CahClone.csproj", "{4A037242-A97B-4F63-92B4-38C3B7BEAE25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CahClone.Web", "CahClone.Web\CahClone.Web.csproj", "{2E9C3606-D2CB-45E9-B6DC-DD179266C065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A037242-A97B-4F63-92B4-38C3B7BEAE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A037242-A97B-4F63-92B4-38C3B7BEAE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A037242-A97B-4F63-92B4-38C3B7BEAE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A037242-A97B-4F63-92B4-38C3B7BEAE25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E9C3606-D2CB-45E9-B6DC-DD179266C065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9C3606-D2CB-45E9-B6DC-DD179266C065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9C3606-D2CB-45E9-B6DC-DD179266C065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9C3606-D2CB-45E9-B6DC-DD179266C065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
